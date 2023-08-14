@@ -1,5 +1,5 @@
 # Google-Movies-Auto-Ratings
-Google Movies Auto Ratings Using Selenium with python in localhost
+Google Movies Auto Ratings Using Selenium with python on localhost
 
 ## If it confort to use in undetected_chromedriver script then fork it...
 
